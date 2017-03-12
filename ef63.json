@@ -2,11 +2,11 @@
   "response": [
     {
       "datetime": 1489305092, 
-      "filename": "HexagonROM-ef63-V2.1-hex-7.1-OFFICIAL-20170307.zip", 
+      "filename": "HexagonROM-hex7.1-20170307-OFFICIAL-ef63.zip", 
       "id": "131f8e727f16e456093ca065f0981973", 
       "romtype": "official", 
       "url": "https://onedrive.live.com/download?cid=5274E94C7E68F815&resid=5274E94C7E68F815%213159&authkey=AHyEdLZCu2Wxvi8", 
-      "version": "HexagonROM"
+      "version": "hex7.1"
     },
     {
       "datetime": 1488530457, 
