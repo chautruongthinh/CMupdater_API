@@ -1,11 +1,11 @@
 {
   "response": [
     {
-      "datetime": 1492054348, 
-      "filename": "lineage-14.1-20170413-UNOFFICIAL-ef63.zip", 
-      "id": "9117fc5755ca10413f8adb8bc6592cb5", 
+      "datetime": 1492241896, 
+      "filename": "lineage-14.1-20170415-UNOFFICIAL-ef63.zip", 
+      "id": "c378d3a1668aa67d1f6122bc7930f6d1", 
       "romtype": "unofficial", 
-      "url": "https://github.com/chautruongthinh/android_device_pantech_ef63/releases/download/13042017/lineage-14.1-20170413-UNOFFICIAL-ef63.zip", 
+      "url": "https://github.com/chautruongthinh/android_device_pantech_ef63/releases/download/15042017/lineage-14.1-20170415-UNOFFICIAL-ef63.zip", 
       "version": "14.1"
     },
     {
