@@ -1,12 +1,12 @@
 {
   "response": [
      {
-      "datetime": 1532419343, 
-      "filename": "lineage-15.1-20180724-UNOFFICIAL-ChauTruongThinh_Beta4-ef63.zip", 
-      "id": "c0b682fe30d8ae61375540e3373f8136", 
+      "datetime": 1533737588, 
+      "filename": "lineage-15.1-20180808-UNOFFICIAL-ChauTruongThinh_Beta5-ef63.zip", 
+      "id": "9e01341347f12cb133c6765aa6dd60ec", 
       "romtype": "unofficial",
-      "size": 372831494, 
-      "url": "https://github.com/chautruongthinh/android_device_pantech_ef63/releases/download/20180724/lineage-15.1-20180724-UNOFFICIAL-ChauTruongThinh_Beta4-ef63.zip", 
+      "size": 368610666, 
+      "url": "https://master.dl.sourceforge.net/project/chautruongthinh/lineage-15.1/lineage-15.1-20180808-UNOFFICIAL-ChauTruongThinh_Beta5-ef63.zip", 
       "version": "15.1"
     }
   ]
