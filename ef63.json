@@ -1,12 +1,12 @@
 {
   "response": [
      {
-      "datetime": 1533737588, 
-      "filename": "lineage-15.1-20180808-UNOFFICIAL-ChauTruongThinh_Beta5-ef63.zip", 
-      "id": "9e01341347f12cb133c6765aa6dd60ec", 
+      "datetime": 1534772322, 
+      "filename": "lineage-15.1-20180820-UNOFFICIAL-ChauTruongThinh-ef63.zip", 
+      "id": "b38494413d164b2609d9b338bc93580a", 
       "romtype": "unofficial",
-      "size": 368610666, 
-      "url": "https://master.dl.sourceforge.net/project/chautruongthinh/lineage-15.1/lineage-15.1-20180808-UNOFFICIAL-ChauTruongThinh_Beta5-ef63.zip", 
+      "size": 368397202, 
+      "url": "https://master.dl.sourceforge.net/project/chautruongthinh/lineage-15.1/lineage-15.1-20180820-UNOFFICIAL-ChauTruongThinh-ef63.zip", 
       "version": "15.1"
     }
   ]
