@@ -2,12 +2,12 @@
 {
   "response": [
      {
-      "datetime":"1541751944", 
-      "filename": "lineage-16.0-20181109-UNOFFICIAL-ChauTruongThinh-beta1-ef63.zip", 
-      "id": "f6dbadc5e3a05eb6b58c1ab768c015f5", 
+      "datetime":1542694557, 
+      "filename": "lineage-16.0-20181120-UNOFFICIAL-ChauTruongThinh-beta2-ef63.zip", 
+      "id": "f13cb196b163dec47245c0a7626545e5", 
       "romtype": "UNOFFICIAL",
-      "size":"426049239", 
-      "url": "https://master.dl.sourceforge.net/project/chautruongthinh/lineage-16.0/lineage-16.0-20181109-UNOFFICIAL-ChauTruongThinh-beta1-ef63.zip", 
+      "size":416165187, 
+      "url": "https://master.dl.sourceforge.net/project/chautruongthinh/lineage-16.0/lineage-16.0-20181120-UNOFFICIAL-ChauTruongThinh-beta2-ef63.zip", 
       "version": "16.0"
     }
   ]
